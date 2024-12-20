@@ -67,6 +67,7 @@ Responses are returned in json format:
 - 429: Too many requests (spirits need some rest)
 - 500: Supernatural error
 - 503: Spirit realm unavailable
+- 666: Demonic interference
 
 ### 5.2 Error Response Format
 ```json
